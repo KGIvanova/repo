@@ -1,3 +1,5 @@
 this is test1
 
-I made some conflicts
+i made some changes
+made some changes form GitHub - for test
+
